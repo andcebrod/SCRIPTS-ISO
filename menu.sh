@@ -1,7 +1,7 @@
 #!/bin/bash
-fija1="dialog --menu\"Equipo\" 0 0 0"
+fija1="dialog --menu \"Equipo\" 0 0 0"
 fija2="2>/tmp/eleccion.txt"
-variable=" "
+variable=""
 read linea
 let i=0
 exec<Partidos.txt
