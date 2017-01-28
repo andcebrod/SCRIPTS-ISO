@@ -1,5 +1,5 @@
 #!/bin/bash
-#Hara falta a demás crear un archivo llamado menu.sh
+#Hara falta además crear un archivo llamado menu.sh
 fija1="dialog --menu \"Equipo\" 0 0 0"
 fija2="2>/tmp/eleccion.txt"
 variable=""
